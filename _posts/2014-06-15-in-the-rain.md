@@ -1,13 +1,12 @@
 ---
-title: 在
-date: 2014-06-15 01:05:13 +0800
+title: New Beginning
+date: 2018-9-12 17:10:00 +0800
 layout: post
-permalink: /blog/2014/06/15/in-the-rain.html
+permalink: /blog/2018/09/12/in-the-rain.html
 categories:
-  - java
+  - Daily life
 tags:
-  - Life
-  - 生活
+  - Blog
 ---
 This is a Test．
 
